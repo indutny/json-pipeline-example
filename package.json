@@ -1,0 +1,18 @@
+{
+  "name": "json-pipeline-example",
+  "version": "1.0.0",
+  "private": true,
+  "description": "json-pipeline usage example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Fedor Indutny <fedor@indutny.com>",
+  "license": "MIT",
+  "dependencies": {
+    "json-pipeline": "^3.11.2",
+    "json-pipeline-reducer": "^1.5.0",
+    "json-pipeline-scheduler": "^2.0.7"
+  }
+}
